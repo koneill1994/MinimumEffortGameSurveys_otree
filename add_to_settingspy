@@ -1,0 +1,6 @@
+    {
+    'name': 'minimum_effort_game_surveys',
+    'display_name': "Minimum Effort Game Surveys",
+    'num_demo_participants': 1,
+    'app_sequence': ['minimum_effort_game_surveys'],    
+    },
